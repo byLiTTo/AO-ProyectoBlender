@@ -152,6 +152,7 @@ Para que sea más real, hemos querido poner un segundo Spot completamente opuest
 
 ## Halo de luz central
 El proceso es similar, solo que esta vez haremos uso de Light → Point. Como la configuración es muy similar solo mostraremos captura de los valores de los ajustes y del resultado final.
+
 <img src="Capturas/30.png" width="250px"/> <img src="Capturas/31.png" width="350px"/>
 
 ---
