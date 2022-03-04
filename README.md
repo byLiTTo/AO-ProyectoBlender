@@ -33,6 +33,6 @@ La escena aún se ve algo angular, para cambiar esto, nos aseguramos de estar en
 Ahora vamos a añadir un objeto de tipo empty. Pulsamos “shift A” estando en el modo objeto, en el tipo “Empty” y concretamente crearmos un objeto Plain axes. Teniendo seleccionado el objeto, seleccionamos también la cámara, es importante hacerlo en este orden, para indicar el sentido de la restricción, vamos a la opcion de Objec→Track→Track to Constraint. Colocamos la cámara a
 nuestro gusto, jugando con los controles y posiciones de ambos objetos.
 
-<img src="Capturas/7.png" width="150px"/> <img src="Capturas/8.png" width="200px"/>
+<img src="Capturas/7.png" width="150px"/> <img src="Capturas/8.png" width="300px"/>
 
 ---
